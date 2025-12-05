@@ -19,7 +19,7 @@ Sigue las instrucciones del `README.md` principal para levantar el entorno con `
 4.  Rellena la información del sitio:
     * **Título:** [Tu Nombre] Blog 1º DAM
     * **Usuario:** admin
-    * **Contraseña:** (Una que recuerdes)
+    * **Contraseña:** #OnePiece1997.
     * **Email:** tu correo corporativo.
 
 ## Paso 3: Verificación Técnica (Base de Datos)
